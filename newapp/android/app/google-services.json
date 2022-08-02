@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "217472051595",
+    "firebase_url": "https://groot-smart-hub-default-rtdb.firebaseio.com",
+    "project_id": "groot-smart-hub",
+    "storage_bucket": "groot-smart-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217472051595:android:197e0c50fb0f9451fd678e",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217472051595-7qg56c7t0jkmj5ljgqh2inlunkpflr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVXvGqOybYs7B25F5aHbelS4UfoBt-0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217472051595-7qg56c7t0jkmj5ljgqh2inlunkpflr8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217472051595:android:d964b0835a9af855fd678e",
+        "android_client_info": {
+          "package_name": "com.example.newapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217472051595-7qg56c7t0jkmj5ljgqh2inlunkpflr8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVXvGqOybYs7B25F5aHbelS4UfoBt-0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217472051595-7qg56c7t0jkmj5ljgqh2inlunkpflr8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
